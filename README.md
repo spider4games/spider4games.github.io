@@ -1,3 +1,5 @@
-  * Hello *
-  PS4  9.00
-     Bye   
+ Hello  
+ 
+ PS4  9.00
+ 
+ Bye   
